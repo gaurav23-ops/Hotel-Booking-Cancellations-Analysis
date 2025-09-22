@@ -1,5 +1,6 @@
 # Hotel-Booking-Cancellations(Interactive Dashboard Using MS Excel)
-##Project Objective
+## Project Objective
+
 The objective of this project is to analyze hotel booking data to uncover patterns and trends in cancellation behavior. Using Microsoft Excel, the project leverages pivot tables and dashboards to explore how factors such as hotel type, guest demographics, room preferences, and seasonal timing influence cancellation rates.
 This analysis aims to:
 - Provide actionable insights for hotel managers and analysts to reduce cancellations
