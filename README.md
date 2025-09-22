@@ -7,3 +7,6 @@ This analysis aims to:
 - Demonstrate proficiency in Excel-based data analysis and visualization
 - Strengthen portfolio credibility for technical roles in data science and analytics
 - Serve as a foundation for future integration with tools like Python, Power BI, and MySQL
+
+## Dataset 
+- <a href ="https://github.com/gaurav23-ops/Hotel-Booking-Cancellations-Analysis/blob/de2048bccbf71cc13149e2714ee501552d2da95c/Hotel_Booking_Cancellation.xlsx">Dataset</a>
