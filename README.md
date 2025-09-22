@@ -10,3 +10,6 @@ This analysis aims to:
 
 ## Dataset 
 - <a href ="https://github.com/gaurav23-ops/Hotel-Booking-Cancellations-Analysis/blob/de2048bccbf71cc13149e2714ee501552d2da95c/Hotel_Booking_Cancellation.xlsx">Dataset</a>
+
+## Dashbord
+<a href ="https://github.com/gaurav23-ops/Hotel-Booking-Cancellations-Analysis/blob/main/Hotel_Dashboard.png">Dashboard<a/>
