@@ -15,17 +15,17 @@ This analysis aims to:
 <img width="1660" height="676" alt="Hotel_Dashboard" src="https://github.com/user-attachments/assets/4d8db60a-ebf3-463d-b34c-61ed7be919d2" />
 
 ## Project Insights
-✅ Key Insights
+-✅ Key Insights
 •	Total Bookings: 119,391
 •	Total Cancellations: 44,224 (~37%)
-🏨 Hotel Type Breakdown
+-🏨 Hotel Type Breakdown
 •	City Hotel: 38,140 bookings, 15,407 cancellations (~40%)
 •	Resort Hotel: 18,567 bookings, 4,930 cancellations (~27%)
-👥 Guest Type Breakdown
+-👥 Guest Type Breakdown
 •	Couples: 38,297 bookings, 14,531 cancellations (~38%)
 •	Families: 7,445 bookings, 2,441 cancellations (~33%)
 •	Singles: 10,965 bookings, 3,303 cancellations (~30%)
-🚪 Room Status
+-🚪 Room Status
 •	Desired Rooms: 49,077 bookings, 19,930 cancellations (~41%)
 •	Undesired Rooms: 7,630 bookings, 407 cancellations (~5%)
 
